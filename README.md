@@ -49,11 +49,11 @@ To develop the project, follow these steps:
 
 ## Visual
 
-<img src="/public/firebase.gif" alt="firebase-gif">
+<img src="/firebase.gif" alt="firebase-gif">
 
 ## Live Demo
 
-<a href="https://menuapplication.netlify.app/">Netlify Project View</a>
+<a href="https://firebaseauthenticationapp.netlify.app/">Netlify Project View</a>
 
 ## API'ler
 
