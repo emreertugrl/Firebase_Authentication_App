@@ -49,7 +49,7 @@ To develop the project, follow these steps:
 
 ## Visual
 
-<img src="/firebase.gif" alt="firebase-gif">
+<img src="./public/firebase.gif" alt="firebase-gif">
 
 ## Live Demo
 
